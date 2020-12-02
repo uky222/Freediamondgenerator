@@ -19,7 +19,7 @@
 
 <a href ="https://uky222.github.io/UID-of-free-fire-players/"><b>Click here to know UID of Ajju Bhai , Amit Bhai , etc.</b></a>
 <body style = "background:orange">
-<form name="contact" method="POST" data-netlify="true">
+<form >
 
 <p>
    <label><b>Enter your I'd name :-</b> <input type="text"></label>
