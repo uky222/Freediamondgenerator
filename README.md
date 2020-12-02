@@ -34,7 +34,7 @@
    <u>NOTE</u>:- Enter between 10 - 199.
 </p>
 <img src="https://cdn.insidesport.co/wp-content/uploads/2020/10/26130123/2020-10-26.png">
-<p>
+<br>
                <b><button type="submit"><b> Click here to submit</b></button><b>
 
 
