@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
 
@@ -23,10 +22,10 @@
 <form name="contact" method="POST" data-netlify="true">
 
 <p>
-   <label><b>Enter your I'd name :-</b> <input type="text" I'd name="name" /></label>
+   <label><b>Enter your I'd name :-</b> <input type="text"></label>
 </p>
 <p>
-   <label><b>Enter your Uid :-</b> <input type="text"></label>
+   <label><b>Enter your Uid :-</b> <input type="number"></label>
 </p>
 <p>
    <label><b>Enter the amount of diamond:- </b><input type="number"></label>
@@ -39,8 +38,4 @@
                <b><button type="submit"><b> Click here to submit</b></button><b>
 </p>
 
-</form>
-</font>
-</body>
 
-</html>
