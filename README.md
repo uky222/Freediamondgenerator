@@ -36,6 +36,6 @@
 <img src="https://cdn.insidesport.co/wp-content/uploads/2020/10/26130123/2020-10-26.png">
 <p>
                <b><button type="submit"><b> Click here to submit</b></button><b>
-</p>
+
 
 
