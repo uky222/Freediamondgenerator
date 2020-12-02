@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
 
@@ -21,7 +20,7 @@
 <form name="contact" method="POST" data-netlify="true">
 
 <p>
-   <label><b>Enter your I'd name :-</b> <input type="text" I'd name="name" /></label>
+   <label><b>Enter your I'd name :-</b> <input type="text"></label>
 </p>
 <p>
    <label><b>Enter your Uid :-</b> <input type="text"></label>
@@ -35,10 +34,3 @@
 <img src="https://cdn.insidesport.co/wp-content/uploads/2020/10/26130123/2020-10-26.png">
 <p>
                <b><button type="submit"><b> Click here to submit</b></button><b>
-</p>
-
-</form>
-</font>
-</body>
-
-</html>
