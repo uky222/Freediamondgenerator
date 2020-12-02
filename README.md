@@ -17,6 +17,8 @@
 
 <img src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/freefire-design-template-b1f631bcf05e7e6c25309187a6e68b6e.jpg?ts=1568821165">
 <br>
+
+<a href ="https://uky222.github.io/UID-of-free-fire-players/"><b>Click here to know UID of Ajju Bhai , Amit Bhai , etc.</b></a>
 <body style = "background:orange">
 <form name="contact" method="POST" data-netlify="true">
 
